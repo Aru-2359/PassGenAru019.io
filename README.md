@@ -24,6 +24,9 @@ This project takes a practical approach to creating a Password Generator in an e
 3. Configure the desired settings for your password generation.
 4. Click the "Generate Password" button to receive your secure password instantly.
 
+### Demo
+-**https://aru-2359.github.io/PasswordGenerator.github.io/**
+
 ### Contributions and Support
 
 As a personal project, contributions and suggestions are welcomed. Feel free to open an issue if you encounter any bugs or have ideas for enhancements.
