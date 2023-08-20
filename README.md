@@ -2,6 +2,9 @@
 
 Hello and welcome to the project's JavaScript-HTML-CSS Password Generator! It is crucial to have strong digital security in a time when our online presence is so significant. This project is an attempt to combine JavaScript, HTML, and CSS in a seamless manner to produce a dependable and user-friendly tool for creating complex, strong passwords.
 
+![Screenshot 2023-08-20 120953](https://github.com/Aru-2359/Password_Generator/assets/107833788/91a15cea-1b4c-4eb7-9f03-132ffbab8541)
+
+
 ### Introduction
 
 This project takes a practical approach to creating a Password Generator in an effort to investigate the complex relationship between front-end design and back-end functionality. The user interface was painstakingly built with HTML and styled with CSS to ensure a visually appealing experience on a variety of devices and screen sizes. JavaScript powers the essential functionality, making it possible to create passwords that are not only secure but also effective at resisting current online dangers.
