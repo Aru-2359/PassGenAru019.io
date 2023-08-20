@@ -25,7 +25,7 @@ This project takes a practical approach to creating a Password Generator in an e
 4. Click the "Generate Password" button to receive your secure password instantly.
 
 ### Demo
-**https://aru-2359.github.io/PasswordGenerator.github.io/**:whale2::whale2::whale2:
+**https://aru-2359.github.io/PasswordGenerator.github.io/**   :whale2::whale2:
 
 ### Contributions and Support
 
