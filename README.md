@@ -37,4 +37,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 Join me in this exploration of web development and cybersecurity, as we discover how the collaboration between JavaScript, HTML, and CSS can result in a practical solution that significantly bolsters our digital security.
 
-[CoderGirl@Arunetri 💀]
